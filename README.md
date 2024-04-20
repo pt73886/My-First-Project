@@ -3,5 +3,5 @@ This is my first project in git hub
 <br>
 See all diteals my project
 <br>
-Author Pankaj Singh
+Author Pankaj Thakur
 
